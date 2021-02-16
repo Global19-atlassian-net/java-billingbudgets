@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.5](https://www.github.com/googleapis/java-billingbudgets/compare/v1.0.4...v1.0.5) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#381](https://www.github.com/googleapis/java-billingbudgets/issues/381)) ([682a5ff](https://www.github.com/googleapis/java-billingbudgets/commit/682a5ffe2604e14fa808a5da01d88de9407a36c7))
+
 ### [1.0.4](https://www.github.com/googleapis/java-billingbudgets/compare/v1.0.3...v1.0.4) (2021-01-14)
 
 
